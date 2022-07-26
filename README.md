@@ -1,0 +1,2 @@
+# sedo
+sedo.letapi.com
